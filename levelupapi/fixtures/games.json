@@ -1,0 +1,27 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type_id": 2,
+            "gamer_id": 1,
+            "title": "Dungeons and Dragons",
+            "maker": "Kanye West",
+            "number_of_players": 6,
+            "skill_level": 3
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type_id": 1,
+            "gamer_id": 1,
+            "title": "Monopoly",
+            "maker": "Hasbro",
+            "number_of_players": 4,
+            "skill_level": 2
+        }
+    }
+
+]

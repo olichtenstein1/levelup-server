@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "organizer_id": 1,
+            "game_id": 1,
+            "description": "This event is only for the best of the best, no noobs allowed!",
+            "date": "2022-04-22",
+            "time": "19:00"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "organizer_id": 1,
+            "game_id": 2,
+            "description": "This is a noob friendly event!",
+            "date": "2022-04-23",
+            "time": "20:00"
+        }
+    }
+]
